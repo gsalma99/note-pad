@@ -1,1 +1,1 @@
-# note-pad
+# Note Taker Starter Code
