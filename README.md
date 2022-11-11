@@ -21,6 +21,7 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 # Screen Shot 
+<img width="1440" alt="Screen Shot 2022-11-10 at 11 18 24 PM" src="https://user-images.githubusercontent.com/110579963/201268926-28e79ea8-f701-4ba5-91af-d87bf95e5360.png">
 
 # Git Hub Link 
 
